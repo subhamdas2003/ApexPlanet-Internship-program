@@ -1,6 +1,6 @@
 # ApexPlanet-Internship-program
 
-#**TASK-1**
+#TASK-1
 
 # Subham Das - Web Developer Portfolio 🌐
 
